@@ -1,6 +1,6 @@
 -eq - equal
 -ne - not equal
--gt - grader than (maior que)
+-gt - greater than (maior que)
 -lt - less than (menor que)
 -ge - greater or equal (maior ou igual)
 -le - less or equal (menor ou igual)
