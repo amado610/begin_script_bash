@@ -1,0 +1,29 @@
+A ler as listas de pacotes...
+A construir árvore de dependências...
+A ler a informação de estado...
+Solving dependencies...
+Installing:
+  htop
+
+Pacotes sugeridos:
+  lm-sensors
+
+Summary:
+  Upgrading: 0, Installing: 1, Removing: 0, Not Upgrading: 33
+  Download size: 195 kB
+  Space needed: 510 kB / 386 GB available
+
+Obter:1 http://pt.archive.ubuntu.com/ubuntu plucky/main amd64 htop amd64 3.4.0-2 [195 kB]
+Obtidos 195 kB em 1s (283 kB/s)
+A seleccionar pacote anteriormente não seleccionado htop.
+(A ler a base de dados ... (A ler a base de dados ... 5%(A ler a base de dados ... 10%(A ler a base de dados ... 15%(A ler a base de dados ... 20%(A ler a base de dados ... 25%(A ler a base de dados ... 30%(A ler a base de dados ... 35%(A ler a base de dados ... 40%(A ler a base de dados ... 45%(A ler a base de dados ... 50%(A ler a base de dados ... 55%(A ler a base de dados ... 60%(A ler a base de dados ... 65%(A ler a base de dados ... 70%(A ler a base de dados ... 75%(A ler a base de dados ... 80%(A ler a base de dados ... 85%(A ler a base de dados ... 90%(A ler a base de dados ... 95%(A ler a base de dados ... 100%(A ler a base de dados ... 178999 ficheiros e diretórios atualmente instalados.)
+A preparar para desempacotar .../htop_3.4.0-2_amd64.deb ...
+A descompactar htop (3.4.0-2) ...
+A instalar htop (3.4.0-2) ...
+A processar 'triggers' para desktop-file-utils (0.28-1) ...
+A processar 'triggers' para hicolor-icon-theme (0.18-2) ...
+A processar 'triggers' para gnome-menus (3.36.0-1.1ubuntu3) ...
+A processar 'triggers' para man-db (2.13.0-1) ...
+A ler as listas de pacotes...
+A construir árvore de dependências...
+A ler a informação de estado...
