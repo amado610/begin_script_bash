@@ -1,0 +1,6 @@
+find: ‘/etc/ssl/private’: Permissão recusada
+find: ‘/etc/credstore.encrypted’: Permissão recusada
+find: ‘/etc/cups/ssl’: Permissão recusada
+find: ‘/etc/sssd’: Permissão recusada
+find: ‘/etc/credstore’: Permissão recusada
+find: ‘/etc/polkit-1/rules.d’: Permissão recusada

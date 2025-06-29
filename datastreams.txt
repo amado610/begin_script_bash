@@ -1,0 +1,10 @@
+find /etc -type f   - find every file (type f) in /etc contem erros com acessos negados
+
+find /etc -type f 2> /dev/null  -  same thing but push all files with errors to /dev/null so we don't see it in the terminal
+
+find /etc -type f &> file.txt  -  push both standard output and error to file.txt
+
+find /etc -type f 1> find_results.txt 2> find_errors.txt  -  push standard outputs to find_results.txt and standard errors to find_errors.txt
+
+
+
