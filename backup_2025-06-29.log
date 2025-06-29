@@ -1,0 +1,20 @@
+sending incremental file list
+created directory backup//current
+./
+Captura de ecrã de 2025-06-20 22-36-51.png
+Captura de ecrã de 2025-06-23 22-11-23.png
+Captura de ecrã de 2025-06-24 22-53-51.png
+Captura de ecrã de 2025-06-27 15-34-34.png
+
+sent 232 bytes  received 69 bytes  602,00 bytes/sec
+total size is 224.750  speedup is 746,68 (DRY RUN)
+sending incremental file list
+created directory backup//current
+./
+Captura de ecrã de 2025-06-20 22-36-51.png
+Captura de ecrã de 2025-06-23 22-11-23.png
+Captura de ecrã de 2025-06-24 22-53-51.png
+Captura de ecrã de 2025-06-27 15-34-34.png
+
+sent 225.186 bytes  received 133 bytes  450.638,00 bytes/sec
+total size is 224.750  speedup is 1,00
